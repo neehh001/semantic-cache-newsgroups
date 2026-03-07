@@ -147,26 +147,6 @@ Query Type - Latency
 Cache Miss ~150 ms
 Cache Hit ~5 ms
 
-## Project Structure
-
-semantic-cache-newsgroups
-│
-├── models
-│ ├── pca.pkl
-│ ├── gmm.pkl
-│ ├── docs.pkl
-│ └── faiss.index
-│
-├── src
-│ ├── api.py
-│ ├── semantic_cache.py
-│ └── model_loader.py
-│
-├── notebook
-│ └── analysis.ipynb
-│
-├── requirements.txt
-└── README.md
 
 ## Author
 
