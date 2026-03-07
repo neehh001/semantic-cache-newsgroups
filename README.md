@@ -147,7 +147,7 @@ Query Type - Latency
 Cache Miss ~150 ms
 Cache Hit ~5 ms
 
-##NOTEBOOK LINK
+## NOTEBOOK LINK
 https://colab.research.google.com/drive/1xLTXDX-W1QcEZeYObbjScRxwdc8XOZV-?usp=sharing
 
 ## Author
