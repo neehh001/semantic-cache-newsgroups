@@ -4,6 +4,9 @@ This project implements a lightweight semantic search system using vector embedd
 
 The system avoids redundant computation by recognizing semantically similar queries, even when they are phrased differently. It combines modern NLP embeddings with a vector database and an API service for real-time querying.
 
+## Live Demo
+https://semantic-cache-newsgroups.streamlit.app/
+
 ## Project Overview
 
 The goal of this system is to build a semantic search pipeline that:
